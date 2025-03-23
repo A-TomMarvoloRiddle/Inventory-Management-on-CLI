@@ -1,6 +1,6 @@
 # Kaljio Inventory Management System 🛒
 
-Welcome to the Kaljio E-commerce platform! This is a simple project demonstrating a product catalog and login functionality using MySQL and Python.
+This is a simple project demonstrating a product catalog and login functionality using MySQL and Python.
 
 ## Features ✨
 - **Product Management**: Displays a catalog of products, each with details like name, price, and features.
@@ -44,5 +44,3 @@ Run the following command in your terminal:
 pip install mysql.connector prettytable
 ```
 ---
-
-This project is a simple demonstration of how to manage an e-commerce catalog with Python and MySQL.
