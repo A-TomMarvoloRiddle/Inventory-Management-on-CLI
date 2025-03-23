@@ -1,4 +1,4 @@
-# Kaljio E-commerce Platform 🛒
+# Kaljio Inventory Management System 🛒
 
 Welcome to the Kaljio E-commerce platform! This is a simple project demonstrating a product catalog and login functionality using MySQL and Python.
 
